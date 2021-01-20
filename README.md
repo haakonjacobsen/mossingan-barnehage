@@ -16,4 +16,4 @@ Nettsiden sitt design har fokus på brukervennlighet og estetikk. Designet er pr
 I Arbeidet er det også gjort noe grafisk design, blant annet av ny Logo for banrnehagen og laget egne SVG-ikoner. Ellers er ikoner stort sett hentet fra [Flaticon](https://www.flaticon.com), og bildene er hentet fra [Pexels](https://www.pexels.com/nb-no/).
 
 ## Browser-testing
-Det er gjort noe, men ikke nok cross-browser testing. For den beste brukeropplevelsen anbefales det å bruke Chrome, Firefox eller Opera. (Safari ambefalse ikke)
+Det er gjort noe, men ikke nok cross-browser testing. For den beste brukeropplevelsen anbefales det å bruke Chrome, Firefox eller Opera. (Safari anbefalse ikke)
