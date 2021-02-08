@@ -4,7 +4,7 @@ Dette er en nettside laget for [Mossingan Familiebarnehage](https://www.barnehag
 
 
 ## Beskrivelse
-Nettsiden blir hostet gjennom folk.ntnu på [denne siden](http://folk.ntnu.no/haakonrj/mossingan_barnehage/om-oss.html).
+Nettsiden blir hostet gjennom folk.ntnu på [denne siden](https://folk.ntnu.no/haakonrj/mossingan_barnehage/hjem.html).
 Nettsiden er utviklet fra bunn med HTML, CSS og Javascript.
 
 Siden er resposniv og fungerer like godt på mobil som på PC gjennom en burger meny som erstatter headeren.
